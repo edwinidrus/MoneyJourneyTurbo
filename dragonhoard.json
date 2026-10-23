@@ -1,0 +1,11 @@
+{
+  "host": "opencode",
+  "mode": "hybrid",
+  "models": {
+    "builder": "opencode/deepseek-v4.1-flash-free",
+    "scout": "opencode/deepseek-v4.1-flash-free",
+    "spiker": "opencode/deepseek-v4.1-flash-free"
+  },
+  "root": "implementation",
+  "checks": []
+}
