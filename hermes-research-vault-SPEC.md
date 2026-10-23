@@ -1,3 +1,4 @@
+
 # Hermes Research Vault: Project Spec
 
 > **For Claude Code.** Read this whole file first. Then:
